@@ -73,10 +73,10 @@ t.end_fill()
 
 # drawing U 
 t.penup()
-t.goto(190,160)
+t.goto(198,160)
 t.pendown()
 t.setheading(270)
-t.pensize(22)
+t.pensize(30)
 t.forward(105)
 curve(60)
 t.forward(105)
